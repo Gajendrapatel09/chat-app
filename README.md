@@ -20,6 +20,8 @@
 
 ● Responsive design: the website is optimized for different screen sizes (tabs and bigger screen sizes) <br/>
 
+# ScreenShots
+
 
 ![Screenshot 2024-09-07 130254](https://github.com/user-attachments/assets/b62dfaba-57b3-4ef4-b932-8831a30ceba7)
 ![Screenshot 2024-09-07 130313](https://github.com/user-attachments/assets/cbd43f4d-cade-4614-8778-92f7c917640f)
