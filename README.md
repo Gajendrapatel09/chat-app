@@ -1,12 +1,12 @@
-TEXTIFY : Real-Time Chat Website with MERN Stack, Socket.io, Redux Toolkit, and Tailwind CSS
+# TEXTIFY : Real-Time Chat Website with MERN Stack, Socket.io, Redux Toolkit, and Tailwind CSS
 
-Technologies Used
+#Technologies Used
 
 ● MERN stack (MongoDB, Express.js, React.js, and Node.js) Socket.io 
 ● Redux Toolkit 
 ● Tailwind CSS
 
-Features
+#Features
 
 ● Real-time chat: users can send and receive messages in real-time 
 ● User authentication: users can sign up, log in, and log out using JWT and Google Auth 
